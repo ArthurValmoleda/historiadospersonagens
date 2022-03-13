@@ -1,0 +1,42 @@
+body {
+  background:black;}
+
+
+.container1 {
+  color: black;
+  background:#ECF4FF;
+  margin: 30px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+h1{
+ padding:2px;
+ color: red;
+text-align:left;
+font-size:34px;
+}
+
+h2{
+ padding:35px;
+ color: black;
+text-align:center;
+font-size:55px;
+}
+
+h3 {
+  margin:40px;
+}
+
+.link{
+  margin:10px;
+  border-radius:60px;
+  font-size:34px;
+  background:black;
+  padding:5px 10px;
+  border-width: 3.5px;
+  border-style: solid;
+  border-color: black;
+  color:white;
+}
+
